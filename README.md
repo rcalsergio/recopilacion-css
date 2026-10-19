@@ -276,13 +276,11 @@ Contesta en un archivo `respuestas.txt` (2–3 líneas cada una):
 
 | Criterio | Puntos |
 |---|---|
-| Uso correcto de los tres lugares de escritura del CSS, `@charset`, `@import` y `@media` (apartados A, P) | 15 |
-| Selectores: universal, clase, id, combinaciones, atributos (B, E, F, G, H) | 20 |
-| Fuentes y texto (C, I, `@font-face`) | 20 |
-| Colores, unidades y fondos (J, K, L) | 15 |
-| Modelo de caja (D, M) | 10 |
-| Listas y enlaces (H, N) | 10 |
-| Orden, comentarios y limpieza del CSS | 5 |
+| Selectores: universal, clase, id, combinaciones, atributos (B, E, F, G, H) | 30 |
+| Colores, unidades y fondos (J, K, L) | 25 |
+| Modelo de caja (D, M) | 15 |
+| Listas y enlaces (H, N) | 15 |
+| Orden, comentarios y limpieza del CSS | 10 |
 | Respuestas a las preguntas de reflexión | 5 |
 
 ## 7. Entrega
