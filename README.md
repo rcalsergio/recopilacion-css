@@ -285,4 +285,4 @@ Contesta en un archivo `respuestas.txt` (2–3 líneas cada una):
 
 ## 7. Entrega
 
-Comprime la carpeta `actividad3-css` en un `.zip` con tu nombre (`Apellido_Nombre_UD1_A3.zip`) y súbelo a la plataforma.
+Hazme un Pull Request
